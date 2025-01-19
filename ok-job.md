@@ -2,9 +2,9 @@
 
 **项目致谢**
 
-> 牧小熊 Datawhale成员 
-> 老徐 Datawhale成员
-> 胡杨林 Datawhale成员
+- 牧小熊 Datawhale成员
+- 老徐 Datawhale成员
+- 胡杨林 Datawhale成员
 
 ## 项目简介
 
