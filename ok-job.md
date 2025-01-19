@@ -1,8 +1,10 @@
 # ok-job
 
-**贡献者团队**
+**项目致谢**
 
-> 牧小熊 Datawhale成员  [知乎号](https://www.zhihu.com/people/muxiaoxiong)
+> 牧小熊 Datawhale成员 
+> 老徐 Datawhale成员
+> 胡杨林 Datawhale成员
 
 ## 项目简介
 
