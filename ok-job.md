@@ -5,6 +5,7 @@
 - 牧小熊 Datawhale成员
 - 老徐 Datawhale成员
 - 胡杨林 Datawhale成员
+- [zarjun](https://github.com/zarjun) Datawhale成员
 
 ## 项目简介
 
@@ -70,6 +71,7 @@
 - 项目实践（如果有）
   - **项目名称与角色**：列出在校期间参与的项目名称，以及自己在项目中扮演的角色。例如，“校园电商平台开发项目 - 前端开发小组成员”。
   - **项目描述与贡献**：简单介绍项目的背景和目标，重点突出自己在项目中的贡献。如果是投技术类的工作，可以在简历中突出所使用的技能，引导面试官对你进行技术考核。
+- 更多简历与点评案例，**详见[文档](https://peblmaykps.feishu.cn/wiki/Y3FmwROQ0i0tx6khV4vcufITnfd#share-USjUd9drkouCt1xIF67cvZ3sngh)**。
 
 **五、技能清单部分**
 
