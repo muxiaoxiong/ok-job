@@ -5,7 +5,7 @@
 - [牧小熊](https://www.zhihu.com/people/muxiaoxiong) Datawhale成员
 - 老徐 Datawhale成员
 - 胡杨林 Datawhale成员
-- [zarjun](https://github.com/zarjun) Datawhale成员
+- [zarjun](https://github.com/zarjun) Datawhale成员   
 
 ## 项目简介
 
@@ -210,7 +210,7 @@
     <td align="left" >个人缴纳5-12% <br> 单位缴纳5-12%</td>
     <td align="left" >租房、买房、装修的时候可以提取适用，买房时可以申请公积金贷款<br> 特点：住房公积金可以断缴纳</td>
 
- 
+
 有的企业会推出六险二金，会增加补充医疗保险和企业年金
 
 
