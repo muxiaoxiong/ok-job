@@ -6,6 +6,7 @@
 - 老徐 Datawhale成员
 - 胡杨林 Datawhale成员
 - [zarjun](https://github.com/zarjun) Datawhale成员
+- 陈长沙 Datawhale成员
 
 ## 项目简介
 
