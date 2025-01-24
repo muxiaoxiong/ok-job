@@ -308,54 +308,57 @@
 
 
 <table id="tfhover" class="tftable" border="1">
-<tr><th>分类</th><th>内容</th><th>缴纳比例</th><th>作用</th></tr>
-<td align="left"  rowspan="6">六险 </td>
-    <td align="left" >养老保险</td>
-    <td align="left" >个人缴纳8% <br> 单位缴纳16-20%</td>
-    <td align="left" >累计交满15年，退休可享受养老金。其中一部分划入统筹基金，一部分可能划入个人帐户（具体比例根据当地政策而定）<br> 特点：可以中断缴纳 最后按照累计缴纳时间计算</td>
     <tr>
-		<td  align="left" >医疗保险</td>
-        <td align="left" >个人缴纳2% <br> 单位缴纳8-10%</td>
-    	<td align="left" >享受医疗费用50%以上的报销<br> 特点：中断对医保保险有影响，中断3个月以上医保暂不可用</td>
-	</tr>
+        <th>分类</th>
+        <th>内容</th>
+        <th>缴纳比例</th>
+        <th>作用</th>
+    </tr>
     <tr>
-		<td  align="left" >生育保险</td>
-        <td align="left" >个人缴纳0% <br> 单位缴纳0.8%</td>
-    	<td align="left" >生育后提供相关的资料可以报销生育的费用<br> 特点：个人不能缴纳</td>
-	</tr>
+        <td align="left" rowspan="6">六险</td>
+        <td align="left">养老保险</td>
+        <td align="left">个人缴纳8% <br> 单位缴纳16 - 20%</td>
+        <td align="left">累计交满15年，退休可享受养老金。其中一部分划入统筹基金，一部分可能划入个人帐户（具体比例根据当地政策而定）<br> 特点：可以中断缴纳 最后按照累计缴纳时间计算</td>
+    </tr>
     <tr>
-		<td  align="left" >工伤保险</td>
-        <td align="left" >个人缴纳0% <br> 单位缴纳0.2-1.9%（根据单位被划分的行业范围确定，具体比例由当地社保局根据单位上一年度工伤申报情况来定）</td>
-    	<td align="left" >工伤时获得医疗费用，工作期间和上下班途中<br> 特点：个人不能缴纳</td>
-	</tr>
+        <td align="left">医疗保险</td>
+        <td align="left">个人缴纳2% <br> 单位缴纳8 - 10%</td>
+        <td align="left">享受医疗费用50%以上的报销<br> 特点：中断对医保保险有影响，中断3个月以上医保暂不可用</td>
+    </tr>
     <tr>
-		<td  align="left" >失业保险</td>
-        <td align="left" >个人缴纳1% <br> 单位缴纳1.5-2%</td>
-    	<td align="left" >缴费满1年，事业后按照缴费年限领取事业保险金，主动辞职时不可领取<br> 特点：个人不能缴纳</td>
-	</tr>
+        <td align="left">生育保险</td>
+        <td align="left">个人缴纳0% <br> 单位缴纳0.8%</td>
+        <td align="left">生育后提供相关的资料可以报销生育的费用<br> 特点：个人不能缴纳</td>
+    </tr>
     <tr>
-		<td  align="left" >补充医疗保险</td>
-        <td align="left" >个人缴纳0% <br> 单位缴纳4%</td>
-    	<td align="left" >社保无法报销的部分再从补充医疗中报销</td>
-	</tr>
-<td align="left"  rowspan="2">二金 </td>
-    <td align="left" >住房公积金</td>
-    <td align="left" >个人缴纳5-12% <br> 单位缴纳5-12%</td>
-    <td align="left" >租房、买房、装修的时候可以提取适用，买房时可以申请公积金贷款<br> 特点：住房公积金可以断缴纳</td>
+        <td align="left">工伤保险</td>
+        <td align="left">个人缴纳0% <br> 单位缴纳0.2 - 1.9%（根据单位被划分的行业范围确定，具体比例由当地社保局根据单位上一年度工伤申报情况来定）</td>
+        <td align="left">工伤时获得医疗费用，工作期间和上下班途中<br> 特点：个人不能缴纳</td>
+    </tr>
     <tr>
-		<td  align="left" >企业年金</td>
-        <td align="left" >个人缴纳0-4% <br> 单位缴纳0-8%</td>
-    	<td align="left" >退休一次性领取</td>
-	</tr>
+        <td align="left">失业保险</td>
+        <td align="left">个人缴纳1% <br> 单位缴纳1.5 - 2%</td>
+        <td align="left">缴费满1年，失业后按照缴费年限领取失业保险金，主动辞职时不可领取<br> 特点：个人不能缴纳</td>
+    </tr>
+    <tr>
+        <td align="left">补充医疗保险</td>
+        <td align="left">个人缴纳0% <br> 单位缴纳4%</td>
+        <td align="left">社保无法报销的部分再从补充医疗中报销</td>
+    </tr>
+    <tr>
+        <td align="left" rowspan="2">二金</td>
+        <td align="left">住房公积金</td>
+        <td align="left">个人缴纳5 - 12% <br> 单位缴纳5 - 12%</td>
+        <td align="left">租房、买房、装修的时候可以提取使用，买房时可以申请公积金贷款<br> 特点：住房公积金可以断缴纳</td>
+    </tr>
+    <tr>
+        <td align="left">企业年金</td>
+        <td align="left">个人缴纳0 - 4% <br> 单位缴纳0 - 8%</td>
+        <td align="left">退休一次性领取</td>
+    </tr>
+</table>
 
 
 其中日常用到的最多的时候医保，那如何使用？
 
 进入【支付宝】搜索【医保】即可查到自己的医保情况，去医院就诊时可出示医保码，享受到医疗保险
-
-
-
-
-
-
-
